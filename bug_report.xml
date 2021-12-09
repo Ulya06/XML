@@ -1,0 +1,21 @@
+<?xml version = "1.0"?> 
+<bug> 
+<id>2154</id> 
+<developer>Ivan Ivanovich</developer> 
+<creation_time>2021-12-05 16:50:00</creation_time> 
+<product>JDT</product> 
+<component>UI</component> 
+<resolution>fixed</resolution> 
+<bug_severity>severy</bug_severity>
+ <head>  
+<summary>the button [buy] doesn't work</summary>    
+<description>when you click on the button [buy], it throws out from the page</description>    
+<steps> 
+<1>Go on the website</1> 
+<2>Add the product to the shopping cart</2> 
+<3>Click the [buy] button</3> 
+</steps>    
+<actual_result>[buy] button is disable</actual_result>     
+ <expected_result>[buy] button is enable</expected_result>   
+</head> 
+</bug>
