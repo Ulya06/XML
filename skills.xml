@@ -1,0 +1,48 @@
+<?xml version = "1.0"?> 
+<skills-info> 
+<Git_GitHub_GitBash> 
+<1>creating repositories and branches</1> 
+<2>adding/ modifying files</2> 
+<3> merging branches</3> 
+</Git_GitHub_GitBash> 
+<Terminal_Linux>
+<1>pwd</1>
+<2>cd</2>
+<3>cd ..</3>
+<4>ls</4>
+<5>touch</5>
+<6>nano</6>
+<7>mkdir</7>
+<8>find</8>
+<9>mv</9>
+<10>less</10>
+<11>head</11>
+<12>tail</12>
+<13>date</13>
+<14>vim</14>
+</Terminal_Linux>
+<Postman>
+<1>Sending requests</1>
+<2>recording the environment</2>
+<3>exporting the collection</3>
+<4>cheking the response code</4>
+</Postman> 
+<Android_Studio>
+<1>Building and running the application on an emulator and a real device</1>
+<2>testing</2>
+</Android_Studio> 
+<Charles_Fiddler>
+<1>Installing a certificate</1>
+<2>intercepting and replacing traffic</2>
+<3>Connected mobile device</3>
+</Charles_Fiddler> 
+<Jmeter>Basic knowledge of load testing</Jmeter> 
+<SQL_MySQL_Server>Basic knowledge</SQL_MySQL_Server> 
+<Python>Basic knowledge</Python> 
+<DevTools>
+<1>Viewing element codes, errors, scripts, server requests and responses</1>
+<2>emulating device web pages</2> 
+<3>clearing cookies</3>
+</DevTools> 
+<Javascript>Basic knowledge</Javascript> 
+</skills-info>
